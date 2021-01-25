@@ -78,7 +78,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/..\/OneDrive - SCC FRANCE\/Fun@Work\/ALTI'UNIVERSE\/Altimance-master\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -101,7 +101,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/..\/..\/OneDrive - SCC FRANCE\/Fun@Work\/ALTI'UNIVERSE\/Altimance-master\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -278,19 +278,6 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":321,
-         "image":"..\/..\/..\/OneDrive - SCC FRANCE\/Fun@Work\/ALTI'UNIVERSE\/Altimance-master\/tilesets_deviant_milkian_1.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"tilesets_deviant_milkian_1",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
