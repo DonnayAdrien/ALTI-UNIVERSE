@@ -82,7 +82,7 @@
          "name":"Sol",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":54,
          "x":0,
          "y":0
@@ -134,7 +134,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":15,
+ "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
