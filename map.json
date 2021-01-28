@@ -582,7 +582,7 @@
                  "id":0,
                  "properties":[
                         {
-                         "name":"Uber",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.ubereats.com\/fr\/feed?pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMjIxMSUyMEF2ZW51ZSUyMFJvbGFuZCUyME1vcmVubyUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpIZTJRbjludHdrY1I4ckFYODRoVmpQOCUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0E1MC4zNzM5MTMzOTcxNjQ4NTYlMkMlMjJsb25naXR1ZGUlMjIlM0EzLjUxOTYzNzIwODg0MTc5JTdE"
                         }]
@@ -591,7 +591,7 @@
                  "id":1,
                  "properties":[
                         {
-                         "name":"JustEat",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.just-eat.fr\/livraison-repas-anzin-centre"
                         }]
