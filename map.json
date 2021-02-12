@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.fr\/"
+                 "value":"https:\/\/archive.org\/embed\/msdos_Rayman_1995"
                 }],
          "type":"tilelayer",
          "visible":true,
