@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ubereats.com\/fr\/"
+                 "value":"https:\/\/app.powerbi.com\/reportEmbed?reportId=6d06b2f0-12f1-4846-bc8d-84b2e446e6c2&appId=fc18541d-8609-4de1-b3c6-7412d77d28b0&autoAuth=true&ctid=c69c7e2f-a168-4108-8187-675b5c936b5a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLW5vcnRoLWV1cm9wZS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"
                 }],
          "type":"tilelayer",
          "visible":true,
