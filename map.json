@@ -35,7 +35,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mycds.cdsbo.app\/knowledgebase"
+                 "value":"https:\/\/home-e1.incontact.eu\/"
                 }],
          "type":"tilelayer",
          "visible":true,
