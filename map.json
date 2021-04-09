@@ -95,6 +95,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Appuyez sur Espace pour entrer dans la salle de r\u00e9union NABOO"
                 }],
          "type":"tilelayer",
          "visible":true,
