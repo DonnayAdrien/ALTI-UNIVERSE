@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/donnayadrien.github.io\/ALTI-UNIVERSE\/etage1.json#RDC-1"
                 }],
