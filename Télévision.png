@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.5" tiledversion="1.5.0" name="image (1)" tilewidth="28" tileheight="16" tilecount="1" columns="1">
  <image source="../../../../Downloads/image (1).png" width="28" height="16"/>
+ <tile id="0">
+  <properties>
+   <property name="openWebsite" value="https://app.powerbi.com/reportEmbed?reportId=6d06b2f0-12f1-4846-bc8d-84b2e446e6c2&amp;appId=fc18541d-8609-4de1-b3c6-7412d77d28b0&amp;autoAuth=true&amp;ctid=c69c7e2f-a168-4108-8187-675b5c936b5a&amp;config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLW5vcnRoLWV1cm9wZS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"/>
+  </properties>
+ </tile>
 </tileset>
