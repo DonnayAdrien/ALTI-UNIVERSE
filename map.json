@@ -622,10 +622,6 @@
          "tilecount":2,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":324,
-         "source":"T\u00e9l\u00e9vision.png"
         }],
  "tilewidth":32,
  "type":"map",
