@@ -914,10 +914,6 @@
          "tilewidth":64
         }, 
         {
-         "firstgid":323,
-         "source":"tileset1.tsx"
-        }, 
-        {
          "columns":11,
          "firstgid":323,
          "image":"tileset1.png",
